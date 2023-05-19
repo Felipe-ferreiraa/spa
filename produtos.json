@@ -1,0 +1,38 @@
+{
+    "produtos":[
+        {
+            "id":"01",
+            "nome":"chamander",
+            "valor":"299.00",
+            "promocao":"false",
+            "valorPro":"0",
+            "imagem":"charmader.png"
+        },
+
+        {
+            "id":"02",
+            "nome":"Bulbasaur",
+            "valor":"299.00",
+            "promocao":"false",
+            "valorPro":"0",
+            "imagem":"bulbasaur.png"
+        },
+
+        {
+            "id":"03",
+            "nome":"Squirtle",
+            "valor":"299.00",
+            "promocao":"false",
+            "valorPro":"0",
+            "imagem":"squirtle.png"
+        },
+        {
+            "id":"04",
+            "nome":"Pikachu",
+            "valor":"299.00",
+            "promocao":"false",
+            "valorPro":"0",
+            "imagem":"pikachu.png"
+        }
+    ]
+}
